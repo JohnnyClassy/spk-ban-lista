@@ -11,7 +11,7 @@ body {
 <meta charset="UTF-8">
 </head>
 <body>
-<?php
+<php
 
 $ftp_ip="178.32.137.193"; //
 $ftp_user="srv_108705_S0p"; //
@@ -118,6 +118,6 @@ echo "</tr>\n";
 $line_num--;
 }
 echo "</table>\n";
-?>
+</php>
 </body>
 </html>
