@@ -35,7 +35,7 @@ $fh = fopen($myFile, 'r');
 $theData = fread($fh, filesize($myFile));
 fclose($fh);
 
-echo '<h1 style="color:#000;margin:0px;padding:0px;font-size:50px;"><center>Ban lista</center></h1>'; //NASLOV
+'<h1 style="color:#000;margin:0px;padding:0px;font-size:50px;"><center>Ban lista</center></h1>'; //NASLOV
 echo "<table border=\"0\" cellpadding=\"2\" style=\"width: 100%;\">\n";
 echo "<tr>\n";
 echo "<td style=\"background-color: #333333; color: #FFFFFF; font-size: small;\">Igrac</td>\n";
