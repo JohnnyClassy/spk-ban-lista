@@ -13,7 +13,7 @@ body {
 <body>
 <?
 
-$ftp_ip="178.32.137.193"; //
+$ftp_ip="178.32.137.193:27500"; //
 $ftp_user="srv_108705_S0p"; //
 $ftp_pass="KvYSG9dq"; //
 
