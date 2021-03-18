@@ -11,7 +11,7 @@ body {
 <meta charset="UTF-8">
 </head>
 <body>
-<?
+<?php
 
 $ftp_ip="178.32.137.193:27500"; //
 $ftp_user="srv_108705_S0p"; //
