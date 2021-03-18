@@ -13,9 +13,9 @@ body {
 <body>
 <?php
 
-$ftp_ip="IP OVDE"; //
-$ftp_user="USERNAME OVDE"; //
-$ftp_pass="PASS OVDE"; //
+$ftp_ip="178.32.137.193"; //
+$ftp_user="srv_108705_S0p"; //
+$ftp_pass="KvYSG9dq"; //
 
 
 $ftp_log_path="cstrike/addons/amxmodx/configs/mdbBans/banlist.txt";
